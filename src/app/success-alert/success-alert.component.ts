@@ -5,7 +5,9 @@ import {Component} from '@angular/core';
   template: '<h3>Success!</h3>',
   styles: [`
     h3 {
-      color: green;
+      padding: 20px;
+      background-color: palegreen;
+      border: 1px solid green;
     }
   `]
 })
